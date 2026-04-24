@@ -41,6 +41,23 @@ The system successfully monitored multiple health parameters in real-time with g
 - Advanced data visualization
 - Mobile app integration
 
+- ## 📸 Project Images
+
+### Breadboard Connection
+![Breadboard](images/Breadboard_Setup.jpg)
+
+### Flowchart
+![Flowchart](images/Flowchart.jpg)
+
+### PCB Design
+![PCB](images/PCB_design.jpg)
+
+### Serial Monitor Output
+![Serial](images/Serial_Monitor_output.jpg)
+
+### Web Interface Output
+![Web](images/Web_Server_output.jpg)
+
 ## 👨‍💻 Author
 Balakumaran  
 Final Year ECE Student
