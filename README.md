@@ -56,7 +56,7 @@ The system successfully monitored multiple health parameters in real-time with g
 ![PCB](images/PCB_Output.jpg)
 
 ### Serial Monitor Output
-![Serial](images/Serial_Monitor_output.jpg)
+![Serial](images/Serial Monitor_output.jpg)
 
 ### Web Interface Output
 ![Web](images/Web_Server_output.jpg)
