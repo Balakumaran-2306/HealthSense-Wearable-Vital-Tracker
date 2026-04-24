@@ -52,6 +52,9 @@ The system successfully monitored multiple health parameters in real-time with g
 ### PCB Design
 ![PCB](images/PCB_design.jpg)
 
+### PCB Output
+![PCB](images/PCB_Output.jpg)
+
 ### Serial Monitor Output
 ![Serial](images/Serial_Monitor_output.jpg)
 
